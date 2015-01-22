@@ -7,7 +7,7 @@ public class main {
 		
 		System.out.println("Bread Products");
 		
-		System.out.println("---A List of Our Products---");
+		System.out.println("---A List of Bread Products---");
 
 
 	}
