@@ -8,8 +8,19 @@ public class main {
 		System.out.println("Bread Products");
 		
 		System.out.println("---A List of Bread Products---");
+		
+		System.out.println("Ingredients");
+		
+		System.out.println("Corn"
+				+ "Cocoa Powder"
+				+ "Poison Dart Frog Venom"
+				+ "Premium Yeast"
+				+ "Sugar");
 
 		System.out.println("contacts");
+		
+		System.out.println("Notes: Other Stuff");
+		
 	}
 
 }
